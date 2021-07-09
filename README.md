@@ -9,10 +9,10 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 -   [x] Lista os servidores do Discord que o usuário faz parte;
 -   [x] Permite realizar o agendamento de partidas;
 -   [x] Permite filtrar as partidas por categoria;
--   [ ] Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
--   [ ] Compartilha o convite para ingressar no servidor do usuário;
--   [ ] Permite redirecionar o usuário para o seu próprio servidor;
--   [ ] Disponibiliza a função de Logout.
+-   [x] Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
+-   [x] Compartilha o convite para ingressar no servidor do usuário;
+-   [x] Permite redirecionar o usuário para o seu próprio servidor;
+-   [x] Disponibiliza a função de Logout.
 
 
 ## ✨ Tecnologias
