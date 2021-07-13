@@ -17,8 +17,8 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 
 ## ✨ Tecnologias
 
--   [ ] React Native
--   [ ] Typescript
+-   [x] React Native
+-   [x] Typescript
 -   [ ] Expo
 -   [ ] Context API
 -   [ ] Async Storage
